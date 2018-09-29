@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.marcador-rodape{
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(#000000,#696969,#808080);
+}
+.box-rodape{
+    display: flex;
+    align-content: center;
+    max-width: 1200px;  
+    margin: 0 auto;
+}
+ .footer-icon{
+    display: flex;
+    width:50px;
+    background-color:#ffffff;
+    border-radius: 5px;
+    font-size: 30px; 
+    padding-left: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+.rodape{
+    padding-top: 11px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border: #ffffff;
+}
+#text-footer{
+    vertical-align: super;
+}
